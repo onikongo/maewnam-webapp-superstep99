@@ -1,0 +1,8 @@
+[31-Mar-2017 10:55:33 Asia/Bangkok] PHP Warning:  imap_open(): Couldn't open stream {imap.gmail.com:/imap/ssl}INBOX in /home/abox/dev.abox.space/apps/setting/xhr/action-email-testserver.php on line 53
+[31-Mar-2017 10:58:45 Asia/Bangkok] PHP Warning:  imap_open(): Couldn't open stream {imap.gmail.com:993/imap/ssl}INBOX in /home/abox/dev.abox.space/apps/setting/xhr/action-email-testserver.php on line 53
+[31-Mar-2017 11:01:26 Asia/Bangkok] PHP Warning:  imap_open(): Couldn't open stream {imap.gmail.com:993/imap/ssl}INBOX in /home/abox/dev.abox.space/apps/setting/xhr/action-email-testserver.php on line 53
+[31-Mar-2017 11:02:03 Asia/Bangkok] PHP Warning:  imap_open(): Couldn't open stream {imap.gmail.com:993/imap/ssl}INBOX in /home/abox/dev.abox.space/apps/setting/xhr/action-email-testserver.php on line 53
+[31-Mar-2017 11:04:23 Asia/Bangkok] PHP Warning:  imap_open(): Couldn't open stream {imap.gmail.com:993/imap/ssl}INBOX in /home/abox/dev.abox.space/apps/setting/xhr/action-email-testserver.php on line 53
+[31-Mar-2017 11:08:59 Asia/Bangkok] PHP Warning:  imap_open(): Couldn't open stream {imap.gmail.com:143/imap/novalidate-cert}INBOX in /home/abox/dev.abox.space/apps/setting/xhr/action-email-testserver.php on line 53
+[31-Mar-2017 11:10:20 Asia/Bangkok] PHP Warning:  imap_open(): Couldn't open stream {mail.maewnam.com:993/imap/ssl}INBOX in /home/abox/dev.abox.space/apps/setting/xhr/action-email-testserver.php on line 53
+[31-Mar-2017 11:10:56 Asia/Bangkok] PHP Warning:  imap_open(): Couldn't open stream {zeus.maxnic.net:993/imap/ssl}INBOX in /home/abox/dev.abox.space/apps/setting/xhr/action-email-testserver.php on line 53
